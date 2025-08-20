@@ -1,0 +1,76 @@
+---
+title: "Logistics"
+about:
+  template: solana
+  links:
+    - icon: globe
+      href: https://uoguelph.ca
+    - icon: twitter-x
+      href: https://twitter.com
+---
+
+::: panel-tabset
+
+### 🛑 Rules
+
+These rules are in place to ensure a safe, respectful, and enjoyable experience for everyone. Please take them seriously.
+
+1. 📄 **Documents**: You are responsible for carrying a **valid passport** and, if required, a **U.S. visa**. These must be accessible during border crossing and remain with you throughout the tour.
+2. 🏥 **Health Insurance**: *Guard.Me travel insurance* is mandatory for all participants. It covers emergency evacuation, repatriation, third-party liability, and more. Sign up at: [https://www.guard.me/guelphinternational](https://www.guard.me/guelphinternational)
+3. 🚫 **No alcohol on the bus.** Any alcohol must be stowed in your suitcase below in the luggage compartment.
+4. 🚌 **The bus is a traveling classroom** — all **University of Guelph policies** apply.
+5. 🙏 **Respect** the bus, our hosts, hotel staff, and your fellow travelers.
+6. ⏰ **Be early** for all departure times. We will leave without you, and the driver will not stop.
+7. 👀 **Look out for each other**, especially in hotels and during your free time at night.
+8. 📝 **Follow the Terms of Participation**. Violations may result in **removal from the tour at your own expense**.
+9. 📅 **Monitor Duties**: Each student will be assigned a day/stop and will:
+    - Arrive early to assist with bus loading and room key collection     - Prepare discussion questions for site visits  
+    - Present thank-you gifts to hosts (UofG water bottles)  
+    - Help unload the bus and distribute room keys  
+    - Assist the driver in tidying the coach  
+    - Submit the group blog post for the day by the next morning
+    
+As participants, you are representing the University of Guelph — please act with professionalism, maturity, and respect throughout the trip.
+
+### 📅 Timing
+
+-   **Departure**: Sunday, August 24 at 6:30 AM (Lang Way, between Crop Science & the Hockey Rink). Please arrive by **6:10 AM**.
+-   **Return**: Saturday, September 6 at approximately **2:30 PM**.
+-   **Pitstops**: ⏰ 30 minutes max; if everyone is back early, we leave early.
+-   **Lunch stops**: ⏰ 1 hour max. Options vary—plan ahead.
+-   Most pitstops will be at Walmarts, truck stops, or highway rest areas.
+
+### 🧳 Packing
+
+-   🎒 One suitcase (under bus) + one backpack (on bus)
+-   Must bring:
+    -   💻 Laptop, field notebook, pens
+    -   🧢 Hat, 🧥 rain jacket, 🧶 sweater
+    -   👟 Comfortable shoes (+ sandals for evenings)
+    -   🩱 Bathing suit (some hotels have pools)
+    -   🧴 Sunscreen, 💤 pillow for the bus, 🎴 cards or 📚 reading material
+    -   📀 Optional: Movies for the bus (after 11:00 AM on long days — ask first)
+
+### 🦺 Safety
+
+-   👞 **Closed-toed shoes required** at:
+    -   Hammonds (Day 5)\
+    -   Corteva Seedcorn Plant (Day 10)\ (must be HEEL SHOES)
+    -   Corteva HQ (Day 11)\
+    -   GDM (Day 13)
+-   👖 **Long pants required**: Corteva Seedcorn Plant (Day 10)
+
+### 🍽️ Meals
+
+-   Lunch provided at: **Foote Cattle** (Day 7) and **Corteva Headquarters** (Day 11)
+-   Most lunch stops have fast food nearby—but not all. Bring snacks or plan ahead.
+-   Suggested dinner options will be listed for most hotel locations.
+
+### 🧾 Admin
+
+-   📧 **Corteva HQ**: You will receive email instructions to pre-register using your UoG email.
+
+
+:::
+
+![](uog.png){width="293"}

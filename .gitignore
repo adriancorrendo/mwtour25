@@ -39,11 +39,16 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+/.quarto/
+
+# Ignore the entire posts directory
+/posts/
+
+# Ignore R project files
+*.Rproj
